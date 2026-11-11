@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Input A (ui[0]) and input B (ui[1]) go into an AND gate. The output A AND B (uo[0]) is high only when both A and B are high.
 
 ## How to test
 
-Explain how to use your project
+Turn on switches 1 and 2 to set A and B. The LED on uo[0] should only light up when both switches are on.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None. Just the switches and an LED.
